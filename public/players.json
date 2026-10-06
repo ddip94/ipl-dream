@@ -1,0 +1,14 @@
+[
+  { "playerId": 1, "name": "Virat Kohli", "image": "/public/Images/virat.jpg", "country": "India", "role": "Batsman", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Medium", "biddingPrice": 1500000 },
+  { "playerId": 2, "name": "Rohit Sharma", "image": "/public/Images/rohit.jpg", "country": "India", "role": "Batsman", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Offbreak", "biddingPrice": 1400000 },
+  { "playerId": 3, "name": "Jasprit Bumrah", "image": "/public/Images/bumrah.jpg", "country": "India", "role": "Bowler", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Fast", "biddingPrice": 1300000 },
+  { "playerId": 4, "name": "Ravindra Jadeja", "image": "/public/Images/jadega.png", "country": "India", "role": "All-Rounder", "battingType": "Left-Hand-Bat", "bowlingType": "Left-Arm-Orthodox", "biddingPrice": 1200000 },
+  { "playerId": 5, "name": "MS Dhoni", "image": "https://placehold.co/400x300?text=MS+Dhoni", "country": "India", "role": "Wicket-Keeper", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Medium", "biddingPrice": 1500000 },
+  { "playerId": 6, "name": "Rashid Khan", "image": "https://placehold.co/400x300?text=Rashid+Khan", "country": "Afghanistan", "role": "Bowler", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Legbreak", "biddingPrice": 1100000 },
+  { "playerId": 7, "name": "Glenn Maxwell", "image": "https://placehold.co/400x300?text=Glenn+Maxwell", "country": "Australia", "role": "All-Rounder", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Offbreak", "biddingPrice": 1000000 },
+  { "playerId": 8, "name": "Jos Buttler", "image": "https://placehold.co/400x300?text=Jos+Buttler", "country": "England", "role": "Wicket-Keeper", "battingType": "Right-Hand-Bat", "bowlingType": "None", "biddingPrice": 1250000 },
+  { "playerId": 9, "name": "Andre Russell", "image": "https://placehold.co/400x300?text=Andre+Russell", "country": "West Indies", "role": "All-Rounder", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Fast", "biddingPrice": 1150000 },
+  { "playerId": 10, "name": "Shakib Al Hasan", "image": "https://placehold.co/400x300?text=Shakib+Al+Hasan", "country": "Bangladesh", "role": "All-Rounder", "battingType": "Left-Hand-Bat", "bowlingType": "Left-Arm-Orthodox", "biddingPrice": 1050000 },
+  { "playerId": 11, "name": "Mitchell Starc", "image": "https://placehold.co/400x300?text=Mitchell+Starc", "country": "Australia", "role": "Bowler", "battingType": "Left-Hand-Bat", "bowlingType": "Left-Arm-Fast", "biddingPrice": 1200000 },
+  { "playerId": 12, "name": "Suryakumar Yadav", "image": "https://placehold.co/400x300?text=Suryakumar+Yadav", "country": "India", "role": "Batsman", "battingType": "Right-Hand-Bat", "bowlingType": "Right-Arm-Medium", "biddingPrice": 1350000 }
+]
